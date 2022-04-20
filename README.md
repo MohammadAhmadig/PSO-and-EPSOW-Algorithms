@@ -6,8 +6,7 @@ Finds the values of the variables that minimize or maximize the objective functi
 
 <br/><img src='/Code/PSO.png'>
 
-<video src='/Code/out.mp4' width=180/>
-
+<video src="https://github.com/MohammadAhmadig/PSO-and-EPSOW-Algorithms/blob/main/Code/out.mp4"></video>
 
 Papers: 
 
