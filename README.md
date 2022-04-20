@@ -6,7 +6,8 @@ Finds the values of the variables that minimize or maximize the objective functi
 
 <br/><img src='/Code/PSO.png'>
 
-<video src='/Code/out.avi' width=180/>
+<video src='/Code/out.mp4' width=180/>
+
 
 Papers: 
 
