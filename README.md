@@ -1,12 +1,13 @@
 # PSO-and-EPSOW-Algorithms
-Implementation of PSO and EPSOW Evolutionary Algorithms 
+Implementation of Particle Swarm Optimization (PSO) and Enhanced Particle Swarm Optimizer incorporating a Weighted particle (EPSOW) Evolutionary Algorithms 
 
 **Optimization Goal**
-Finds the values of the variables that minimize or maximize the objective function while satisfying the constraint
+Finds the values of the variables that minimize or maximize the objective function while satisfying the constraint.
+
+![Game](https://github.com/MohammadAhmadig/PSO-and-EPSOW-Algorithms/blob/main/Code/PSO.gif)
 
 <br/><img src='/Code/PSO.png'>
 
-<video src="https://github.com/MohammadAhmadig/PSO-and-EPSOW-Algorithms/blob/main/Code/out.mp4"></video>
 
 Papers: 
 
